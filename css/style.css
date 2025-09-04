@@ -8,3 +8,8 @@ p{
     font-style: italic;
     color: darkcyan;
 }
+
+.logo{
+    border-radius: 12%;
+    
+}
